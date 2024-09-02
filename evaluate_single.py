@@ -4,7 +4,6 @@ from tensorflow.keras.preprocessing import image
 import numpy as np
 import streamlit as st
 from PIL import Image
-import cv2
 
 st.title('This model predicts if the given image is Aadhar POI or not')
 #Loading the arguments
